@@ -1,8 +1,8 @@
-# React Gallery App Project 7 FSJS
+# React Gallery App Project 7 FSJS TechDegree
 
 ## About
 * a simple react gallery app that returns pre selected search pictures in nav buttons and a
-search form for custom searches from the Flickr api.
+search form for custom searches from the Flickr api. Techdegree project 7.
 
 ## Technologies Used
 * Atom, Git, HTML, CSS, JS, JSX, Flickr API, React
