@@ -13,7 +13,7 @@ const Gallery = props => {
   } else {
     console.log('Error');
   }
-/** will return search outcome with photo-container **/
+/** will return search outcome with photo-container containing the pictures object **/
   return (
     <div className='photo-container'>
       <h2> Your Search Outcome</h2>

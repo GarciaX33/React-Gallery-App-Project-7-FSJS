@@ -1,7 +1,7 @@
 import React from 'react';
 /** nav link **/
 import {NavLink} from 'react-router-dom';
-/** will return the main nav with links to preselects space,nba,mlb, nfl **/
+/** will return the main nav with Navlinks to preselects space,nba,mlb, nfl from mainnav **/
 const Nav = () => {
   return (
   <div>

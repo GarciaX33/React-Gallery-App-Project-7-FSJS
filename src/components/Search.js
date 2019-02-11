@@ -14,7 +14,7 @@ class Search extends Component {
     this.props.onSearch(this.state.searchInput);
     event.currentTarget.reset();
   }
-
+/** will return the search form with onSubmition event onSubmit and onSearching onChange **/
   render(){
     return (
       <div>
