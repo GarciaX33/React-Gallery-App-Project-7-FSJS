@@ -7,8 +7,10 @@ search form for custom searches from the Flickr api.
 ## Technologies Used
 * Atom, Git, HTML, CSS, JS, JSX, Flickr API, React
 
-## Author
-* Daniel J. Garcia-Carmona
+## Authors
+
+* **Daniel J. Garcia-Carmona** - *FSJS Project 7* - [GarciaX33](https://github.com/GarciaX33)
+
 
 
 
