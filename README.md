@@ -1,3 +1,20 @@
+# React Gallery App Project 7 FSJS
+
+## About
+* a simple react gallery app that returns pre selected search pictures in nav buttons and a
+search form for custom searches from the Flickr api.
+
+## Technologies Used
+* Atom, Git, HTML, CSS, JS, JSX, Flickr API, React
+
+## Author
+* Daniel J. Garcia-Carmona
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
