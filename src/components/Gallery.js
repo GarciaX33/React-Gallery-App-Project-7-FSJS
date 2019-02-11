@@ -1,4 +1,5 @@
 import React from 'react';
+/** will import gallery **/
 import GalleryItem from './Gallery-Item';
 
 /** will return the pictures to display in the container **/
