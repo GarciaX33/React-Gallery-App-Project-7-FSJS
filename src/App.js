@@ -15,7 +15,7 @@ import Gallery from './components/Gallery';
 import Search from './components/Search';
 
 
-
+/** will start isMounted as false for reload function **/
 var isMounted = false;
 export default
 class App extends Component {
@@ -95,7 +95,7 @@ class App extends Component {
         console.log('Error');
       });
   }
-  /** reload function for OnClick using isMounted variable**/
+  /** reload function for OnClick using isMounted variable to fix nav button displays**/
   reload = ()=>{
     if(isMounted===true){
       window.location.reload();
